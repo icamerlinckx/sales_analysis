@@ -1,0 +1,12 @@
+# Ignorar el entorno virtual de Python
+venv/
+
+# Ignorar archivos de Power BI
+*.pbix
+
+# Ignorar archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar datos descargados o generados
+data/raw/
+data/interim/
